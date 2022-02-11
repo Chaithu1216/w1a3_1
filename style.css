@@ -1,0 +1,23 @@
+.container{
+    width: 1200px;
+    margin: auto; 
+}
+.row{
+    display:flex;
+    flex-wrap: wrap;
+}
+.box1{
+    width: 20%;
+    margin:auto;
+    display: inline-block;
+    padding: 30px;
+}
+.box2{
+    width: 20%;
+    margin:auto;
+    display: inline-block;
+    padding: 30px;
+}
+.box1 img{
+    width: 100%;
+}
